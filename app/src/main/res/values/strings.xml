@@ -2,4 +2,7 @@
     <string name="app_name">iBeacon Scanner</string>
     <string name="start">START</string>
     <string name="stop">STOP</string>
+    <string name="permission_rejected">Can\'t proceed without permission</string>
+    <string name="no_bluetooth_support">Device doesn\'t support Bluetooth. Can\'t proceed.</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled. Can\'t proceed.</string>
 </resources>
